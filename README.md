@@ -44,9 +44,10 @@ This project investigates the factors contributing to movie revenue using a data
 ---
 
 ### 🌱 Current Focus
-* 🔭 **Working on:** Automating financial reconciliation reports using Python/SQL.
-* 🌱 **Learning:** Machine Learning fundamentals and Advanced Predictive Modeling.
-* 💬 **Ask me about:** Why accountants make the best data analysts (it's all about the attention to detail!).
+* 🔭 **Currently Working On:** Completing a **Portfolio Deep-Dive** where I am integrating my SQL cleaning skills with Python automation to streamline repetitive reporting tasks.
+* 📚 **Continuous Learning:** Actively studying **Advanced SQL (Window Functions & Optimization)** and **Statistical Modeling** to move from descriptive to predictive analytics.
+* 🛠️ **Project Goal:** Building a "Data-to-Dashboard" pipeline that connects a cleaned SQL database to a live Tableau visualization.
+* 💬 **Ask me about:** How my **Accounting background** taught me the importance of 100% data accuracy and the value of a clean audit trail.
 
 ---
 
