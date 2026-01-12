@@ -15,7 +15,7 @@ I bridge the gap between **financial precision** and **technical execution**. Wi
 
 ### 📂 Featured Projects
 
-#### [🧹 Nashville Housing: Data Cleaning in SQL](Link-to-Cleaning-Repo)
+#### [🧹 Nashville Housing: Data Cleaning in SQL](https://github.com/SQLrico/Portfolio-Project/blob/main/Data%20Cleaning%20%20Queries%20-%20Portfolio%20Project.sql)
 **Advanced T-SQL Data Wrangling & Database Optimization**
 
 This project focuses on transforming raw housing data into a clean, usable format for analysis. It showcases my ability to handle real-world "messy" data using high-level SQL techniques.
@@ -25,7 +25,7 @@ This project focuses on transforming raw housing data into a clean, usable forma
 * **Structural Parsing:** Used **SUBSTRING** and **PARSENAME** to split complex address strings into individual columns (Address, City, State) for better filtering.
 * **Duplicate Removal:** Implemented **CTEs** and **Window Functions** (`ROW_NUMBER`) to identify and delete redundant records, ensuring a unique dataset.
 
-#### [🗄️ COVID-19 Global Data Exploration]([Link-to-SQL-Repo](https://github.com/SQLrico/Portfolio-Project/blob/main/Covid%20Exploration%20-%20Portfolio%20Project.sql))
+#### [🗄️ COVID-19 Global Data Exploration](https://github.com/SQLrico/Portfolio-Project/blob/main/Covid%20Exploration%20-%20Portfolio%20Project.sql)
 **Advanced SQL Querying & Database Management (PostgreSQL)**
 
 In this project, I performed an in-depth analysis of global COVID-19 data to identify infection trends and vaccination progress. 
