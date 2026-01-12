@@ -15,7 +15,7 @@ I bridge the gap between **financial precision** and **technical execution**. Wi
 
 ### 📂 Featured Projects
 
-#### [🧹 Nashville Housing: Data Cleaning in SQL]([Link-to-Cleaning-Repo](https://github.com/SQLrico/Portfolio-Project/blob/main/Data%20Cleaning%20%20Queries%20-%20Portfolio%20Project.sql))
+#### [🧹 Nashville Housing: Data Cleaning in SQL](Link-to-Cleaning-Repo)
 **Advanced T-SQL Data Wrangling & Database Optimization**
 
 This project focuses on transforming raw housing data into a clean, usable format for analysis. It showcases my ability to handle real-world "messy" data using high-level SQL techniques.
@@ -33,7 +33,7 @@ In this project, I performed an in-depth analysis of global COVID-19 data to ide
 * **Advanced Techniques:** Leveraged **Joins**, **CTEs**, and **Temp Tables** to merge and manipulate death and vaccination datasets.
 * **Rolling Totals:** Utilized **Window Functions** to calculate rolling vaccination counts per country.
 
-#### [🎬 Movie Industry Revenue Analysis]([Link-to-Python-Repo](https://github.com/SQLrico/Portfolio-Project/blob/main/Movie%20Correlation%20-%20Portfolio%20Project.ipynb))
+#### [🎬 Movie Industry Revenue Analysis](https://github.com/SQLrico/Portfolio-Project/blob/main/Movie%20Correlation%20-%20Portfolio%20Project.ipynb)
 **Quantitative Exploratory Data Analysis (EDA) in Python**
 
 This project investigates the factors contributing to movie revenue using a dataset of 7,000+ films.
