@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eric Voong | @SQLrico
 
-### 📊 Accountant/Data Analyst
+### 📊 CPA Candidate | Accountant / Data Analyst
 I bridge the gap between **financial precision** and **technical execution**. With a background in managing high-integrity financial datasets and a deep interest in software logic, I specialize in building data stories that drive business decisions.
 
 ---
